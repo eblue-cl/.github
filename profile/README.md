@@ -1,4 +1,3 @@
-![eblue Logo](https://www.eblue.cl/public/frontend/image/eblue.png)
 <h2>Servicios & Soluciones TI</h2>
 
 >Somos eblue, una empresa de tecnología orientada a apoyar la transformación digital de tu organización. Ofrecemos una variedad de servicios diseñados para resolver las necesidades de tu empresa en sus diferentes etapas de crecimiento.
